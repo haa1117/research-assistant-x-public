@@ -1,0 +1,45 @@
+# Analysis and demo files (portfolio only)
+/analysis/
+/screenshots/
+
+# Logs
+/_run-logs/
+*.log
+
+# Python environment
+venv/
+.venv
+
+# Node modules
+node_modules/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
